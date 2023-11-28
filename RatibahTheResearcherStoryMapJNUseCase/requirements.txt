@@ -1,0 +1,7 @@
+os
+numpy
+plotly
+pandas
+openpyxl
+requests
+json
