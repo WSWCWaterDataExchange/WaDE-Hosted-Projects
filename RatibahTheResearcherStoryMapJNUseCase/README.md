@@ -1,6 +1,6 @@
 # JupyterNotebooks
 Launch Mybinder and run on the fly in the cloud with no login or any set up at all:
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/WSWCWaterDataExchange/JupyterNotebooks/master?filepath=Ex_RatibahWaDEDataAnalytics)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/WSWCWaterDataExchange/WaDE-Hosted-Projects/tree/main/RatibahTheResearcherStoryMapJNUseCase?filepath=Ex_RatibahWaDEDataAnalytics)
 
 ***
 # Ratibah the Researcher StoryMap Jupyter Notebook Use Case
